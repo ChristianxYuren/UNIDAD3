@@ -1,0 +1,211 @@
+{"items:":[
+
+        {
+           "category":"DESAYUNOS",
+           "iyems":[
+            {
+                "name":"MIX de cafeina",
+                "description":"EL PLATO PRESENTA UN CAFE ACOMPAÑADO DE FRUTOS ROJOS CON UN TOQUE ALMENDRAS Y AVENA TODO LO QUE NECESITA EL CUERPO DE ENERGIA",
+                "price":"150.00",
+                "image":"img/1.jpg"
+            },
+            {
+             "Name":" Licuado Refrescante de Frutos Rojos",  
+             "description": "El plato presenta un licuado acompañado de frutos rojos y jugo de naranja con un toque de algunas frutas y avenas en el plato.",
+             "Price":" $160.00",
+            "image":"img/2.jpg"
+            },
+            {
+            "Name": "Desayuno Completo con Café y Jugos  ",
+                "Descripción": "El plato presenta un café y jugo de naranja acompañado de huevos estrellados, tocino, pan integral y unos hot cakes.",  
+                "Price": "$200.0",
+                "image":"img/3.jpg"
+            },
+            {
+                "name":"Delicia de Waffles con Frutos Rojos",
+                "description":"El plato presenta unos waffles con un toque de crema y frutos rojos",
+                "price":"$120.00",
+                "image":"img/4.jpg"
+            },
+            {
+                "name":"Avena Nutritiva con Frutos Rojos",
+                "description":"El plato presenta avena acompañada de frutos rojos con proporciones divididas para cada porción de avena.  ",
+                "price":"$180.00",
+                "image":"img/5.jpg"
+            },
+            {
+                "name":"Huevos Estrellados con Verduras Fresca",
+                "description":"El plato contiene huevos estrellados con algunas verduras como el brócoli, aguacate y pechuga (no viene incluida la bebida, es aparte). ",
+                "price":"$180.00",
+                "image":"img/6.jpeg"
+            }
+            
+           ]
+           
+        },
+        {
+            "category":"ALMUERZOS",
+           "iyems":[
+            {
+                "name":"Arroz Frito con Pollo y Verduras",
+                "description":"Arroz frito con verduras y trozos de pollo, adornado con hojas de cilantro fresco.  ",
+                "price":"$180.00",
+                "image":"img/7.jpeg"
+            },
+            {
+                "name":"Placer de Flautas",
+                "description":" Plato de flautas adornados con crema, queso y salsa.  ",
+                "price":"$170.00",
+                "image":"img/8.jpeg"
+            },
+            {
+                "name":"Chilaquiles Verdes Tradicionales",
+                "description":" Un plato de chilaquiles verdes adornado con crema, queso rallado, cebolla y tomate. ",
+                "price":"$170.00",
+                "image":"img/9.jpeg"
+            },
+            {
+                "name":"Tentación de Enchiladas",
+                "description":"Plato de enchiladas adornado con queso, rábanos y lechuga.  ",
+                "price":"$220.00",
+                "image":"img/10.jpeg"
+            },
+            {
+                "name":"Sopes Coloridos",
+                "description":"Sopes con toppings coloridos servidos en un plato azul.  ",
+                "price":"$80.00",
+                "image":"img/11.jpeg"
+            },
+            {
+                "name":"Burrito Satisfactorio",
+                "description":" Cada burrito está hecho con tortillas de harina blanca y está relleno de ingredientes que parecen ser carne, arroz y verduras.  ",
+                "price":"$80.00",
+                "image":"img/12.jpeg"
+            }
+        ] 
+        },
+        {
+            "category":"COMIDAD APERITIVOS",
+           "iyems":[
+            {
+                "name":"Puré de Papas con Acompañamientos",
+                "description":"El plato contiene puré de papas con un trozo de cilantro y alrededor lo acompañan galletas saladas, frutas y verduras, especialmente como el picor, etc.",
+                "price":"$80.00",
+                "image":"img/13.jpeg"
+            },
+            {
+                "name":"Brochetas de Vegetales y Queso",
+                "description":"Brochetas de vegetales y queso.",
+                "price":"$55.00",
+                "image":"img/14.jpeg"
+            },
+            {
+                "name":"Estrellas de Galletas Decoradas",
+                "description":"Galletas en forma de estrella decoradas con glaseado y granos de granada. ",
+                "price":"$70.00",
+                "image":"img/15.jpeg"
+            },
+            {
+                "name":" Bandeja de Antojitos Mexicanos ",
+                "description":"En un plato grande, incluyendo tacos, quesadillas y otros bocados deliciosos. ",
+                "price":"$120.00",
+                "image":"img/16.jpeg"
+            },
+            {
+                "name":"Nachos con Salsa Fresca",
+                "description":"Plato de nachos con una taza de salsa en el centro.",
+                "price":"$65.00",
+                "image":"img/17.jpeg"
+            },
+            {
+                "name":"Papa Asada a la Perfección",
+                "description":"Papa asada con varios ingredientes encima.",
+                "price":"$100.00",
+                "image":"img/18.jpeg"
+            }
+        ] 
+        },
+        {
+            "category":"POSTRES",
+           "iyems":[
+            {
+                "name":" Flan de Caramelo",
+                "description":" Flan con caramelo servido en un plato blanco, acompañado de una cuchara.",
+                "price":"$55.00",
+                "image":"img/19.jpeg"
+            },
+            {
+                "name":" Cheesecake Exquisito",
+                "description":" Pastel de queso tiene una base crujiente y un relleno cremoso, y está cubierto con caramelo líquido. ",
+                "price":"$70.00",
+                "image":"img/20.jpeg"
+            },
+            {
+                "name":"Pastel de Lima Fresco",
+                "description":"Pastel de lima decorada con una fresa y espolvoreada con ralladura de lima.",
+                "price":"$90.00",
+                "image":"img/21.jpeg"
+            },
+            {
+                "name":" Pastel de Manzana Artesanal",
+                "description":"Pastel de manzana decorada con rodajas de lima, una frambuesa y hojas de menta. ",
+                "price":"$200.00",
+                "image":"img/22.jpeg"
+            },
+            {
+                "name":" Churros dorados.",
+                "description":"Churros dorados y crujientes en un plato blanco.",
+                "price":"$30.00",
+                "image":"img/23.jpeg"
+            },
+            {
+                "name":"Arroz con Leche Canela",
+                "description":" El arroz con leche está espolvoreado con canela molida en la parte superior.",
+                "price":"$80.00",
+                "image":"img/24.jpeg"
+            }
+        ] 
+        },
+        {
+            "category":"BEBIDAS",
+           "iyems":[
+            {
+                "name":"Coca cola",
+                "description":"La botella es transparente, mostrando el líquido oscuro en su interior.",
+                "price":"$30.00",
+                "image":"img/25.jpeg"
+            },
+            {
+                "name":"Cóctel Rojo Refrescante",
+                "description":"Un cóctel rojo con una rodaja de limón y una pajita verde.",
+                "price":"$55.00",
+                "image":"img/26.jpeg"
+            },
+            {
+                "name":"Cóctel Tropical Especial",
+                "description":" Cóctel tropical con una piña y un coco a su lado.",
+                "price":"$45.00",
+                "image":"img/27.jpeg"
+            },
+            {
+                "name":" Whisky en las Rocas",
+                "description":"Whisky con hielo y una rodaja de lima.",
+                "price":"$65.00",
+                "image":"img/28.jpeg"
+            },
+            {
+                "name":"Margarita Refrescante",
+                "description":"Vaso de cóctel con un borde escarchado y una rodaja de lima.",
+                "price":"$40.00",
+                "image":"img/29.jpeg"
+            },
+            {
+                "name":"Vaso de agua fresaca ",
+                "description":"Vaso de agua transparente lleno hasta el borde.",
+                "price":"$00.00",
+                "image":"img/30.jpeg"
+            }
+        ] 
+        }
+    ]
+}
